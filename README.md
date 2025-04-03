@@ -2,7 +2,7 @@
 
 "Hello, I’m Rahamshaik—a Hyderabad-based tech enthusiast with a knack for juggling AI projects across multiple startups. When I’m not busy playing the ‘freelancer’ game (where I pretend to have a work-life balance), I dive into the world of Cloud and DevOps, passionately teaching the ins and outs to anyone who’s brave enough to listen. Think of me as a part-time magician, turning complex tech jargon into digestible knowledge, with a sprinkle of sarcasm for flavor. Freelancer, trainer, and occasional tech whisperer—that’s me in a nutshell."
 
-## 🌐 Socials:
+## 🌐 My Social Media (time killers :)):
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raham_remo) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raham-shaik-813317201/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:devopsbyraham@gmail.com) 
 
 # 💻 Tech Stack:
