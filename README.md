@@ -14,6 +14,42 @@ I'm **Raham Shaik**, a Hyderabad-based tech enthusiast who somehow manages to ju
 
 Think of me as a **part-time magician** who converts complex cloud architecture into **simple explanations humans can actually understand**.
 
+
+## 🏆 Certifications
+
+<p align="center">
+
+<a href="https://www.cncf.io/training/certification/cka/">
+<img src="https://img.shields.io/badge/Certified_Kubernetes_Administrator-CKA-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://www.cncf.io/training/certification/ckad/">
+<img src="https://img.shields.io/badge/Certified_Kubernetes_Application_Developer-CKAD-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://www.cncf.io/training/certification/cks/">
+<img src="https://img.shields.io/badge/Certified_Kubernetes_Security_Specialist-CKS-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://www.cncf.io/training/certification/kcna/">
+<img src="https://img.shields.io/badge/Kubernetes_and_Cloud_Native_Associate-KCNA-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://www.cncf.io/training/certification/kcsa/">
+<img src="https://img.shields.io/badge/Kubernetes_and_Cloud_Native_Security_Associate-KCSA-blue?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://www.cncf.io/training/certification/kubestronaut/">
+<img src="https://img.shields.io/badge/Kubestronaut-Kubernetes_Astronaut-black?style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+
+<a href="https://developer.hashicorp.com/certifications/terraform-associate">
+<img src="https://img.shields.io/badge/Terraform_Associate-HashiCorp-purple?style=for-the-badge&logo=terraform&logoColor=white"/>
+</a>
+
+</p>
+
+---
 ---
 
 # 🧠 What I Do
