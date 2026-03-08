@@ -43,7 +43,7 @@ Think of me as a **part-time magician** who converts complex cloud architecture 
 <img src="https://img.shields.io/badge/Kubestronaut-Kubernetes_Astronaut-black?style=for-the-badge&logo=kubernetes&logoColor=white"/>
 </a>
 
-<a href="https://developer.hashicorp.com/certifications/terraform-associate">
+<a href="https://www.credly.com/badges/453f4896-cdf4-4736-84ac-236bd0a49650/public_url">
 <img src="https://img.shields.io/badge/Terraform_Associate-HashiCorp-purple?style=for-the-badge&logo=terraform&logoColor=white"/>
 </a>
 
